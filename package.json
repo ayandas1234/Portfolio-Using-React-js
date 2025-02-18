@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ayandas1234.github.io/Portfolio-Using-React-js",
   "name": "portfolio-using-react-js",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@formspree/react": "^2.5.1",
