@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-Check out the live version of my portfolio: [Your Portfolio Link]()
+Check out the live version of my portfolio: 🌍 [Portfolio Link](https://ayandas1234.github.io/Portfolio-Using-React-js/)
 
 ---
 
@@ -30,7 +30,7 @@ Check out the live version of my portfolio: [Your Portfolio Link]()
 
 * **🏗️ Frontend:** ⚛️ React.js, 🎨 CSS
 
-* **☁️ Deployment:** Vercel/Netlify/GitHub Pages (mention where it's hosted)
+* **☁️ Deployment:** GitHub Pages
 
 ---
 
@@ -56,11 +56,11 @@ npm run dev
 
 ## 🔗 Connect with Me
 
-* __🌍 Portfolio:__ [Your Portfolio Link]()
+* __📧 G-mail:__ [G-mail](https://mail.google.com/mail/?view=cm&to=ayanprojects2024@gmail.com)
 
-* __💼 LinkedIn:__ [Your LinkedIn Profile]()
+* __💼 LinkedIn:__ [LinkedIn Profile](https://www.linkedin.com/in/ayan-das6)
 
-* __🏗️ GitHub:__ 🐙 [Your GitHub Profile]()
+* __🏗️ GitHub:__ 🐙 [GitHub Profile](https://github.com/ayandas1234)
 
 ---
 
